@@ -22,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/syamjith45/LeetCodes/tree/master/0009-palindrome-number) |
 | [2485-find-the-pivot-integer](https://github.com/syamjith45/LeetCodes/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
 |  |
