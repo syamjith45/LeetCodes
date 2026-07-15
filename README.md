@@ -25,6 +25,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/syamjith45/LeetCodes/tree/master/0009-palindrome-number) |
 | [2485-find-the-pivot-integer](https://github.com/syamjith45/LeetCodes/tree/master/2485-find-the-pivot-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/syamjith45/LeetCodes/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/syamjith45/LeetCodes/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/syamjith45/LeetCodes/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
