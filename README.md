@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/syamjith45/LeetCodes/tree/master/0217-contains-duplicate) |
+| [1189-maximum-number-of-balloons](https://github.com/syamjith45/LeetCodes/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -41,4 +42,12 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/syamjith45/LeetCodes/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/syamjith45/LeetCodes/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/syamjith45/LeetCodes/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
