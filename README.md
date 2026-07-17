@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/syamjith45/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/syamjith45/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/syamjith45/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/syamjith45/LeetCodes/tree/master/0724-find-pivot-index) |
@@ -50,4 +51,12 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/syamjith45/LeetCodes/tree/master/1189-maximum-number-of-balloons) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/syamjith45/LeetCodes/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/syamjith45/LeetCodes/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
