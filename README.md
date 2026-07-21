@@ -10,6 +10,7 @@
 | [0238-product-of-array-except-self](https://github.com/syamjith45/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/syamjith45/LeetCodes/tree/master/0724-find-pivot-index) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/syamjith45/LeetCodes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/syamjith45/LeetCodes/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/syamjith45/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/syamjith45/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/syamjith45/LeetCodes/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/syamjith45/LeetCodes/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/syamjith45/LeetCodes/tree/master/2485-find-the-pivot-integer) |
 ## Database
 |  |
