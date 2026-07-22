@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/syamjith45/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/syamjith45/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/syamjith45/LeetCodes/tree/master/0724-find-pivot-index) |
+| [1051-height-checker](https://github.com/syamjith45/LeetCodes/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/syamjith45/LeetCodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/syamjith45/LeetCodes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/syamjith45/LeetCodes/tree/master/1480-running-sum-of-1d-array) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/syamjith45/LeetCodes/tree/master/0217-contains-duplicate) |
+| [1051-height-checker](https://github.com/syamjith45/LeetCodes/tree/master/1051-height-checker) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/syamjith45/LeetCodes/tree/master/0011-container-with-most-water) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/syamjith45/LeetCodes/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
