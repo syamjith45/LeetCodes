@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/syamjith45/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/syamjith45/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/syamjith45/LeetCodes/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/syamjith45/LeetCodes/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/syamjith45/LeetCodes/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/syamjith45/LeetCodes/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/syamjith45/LeetCodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
