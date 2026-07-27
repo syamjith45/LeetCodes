@@ -14,6 +14,7 @@
 | [1051-height-checker](https://github.com/syamjith45/LeetCodes/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/syamjith45/LeetCodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/syamjith45/LeetCodes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syamjith45/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/syamjith45/LeetCodes/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/syamjith45/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -27,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/syamjith45/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/syamjith45/LeetCodes/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/syamjith45/LeetCodes/tree/master/1051-height-checker) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syamjith45/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/syamjith45/LeetCodes/tree/master/1051-height-checker) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syamjith45/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
