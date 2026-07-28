@@ -13,6 +13,7 @@
 | [0724-find-pivot-index](https://github.com/syamjith45/LeetCodes/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/syamjith45/LeetCodes/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/syamjith45/LeetCodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1331-rank-transform-of-an-array](https://github.com/syamjith45/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/syamjith45/LeetCodes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syamjith45/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/syamjith45/LeetCodes/tree/master/1480-running-sum-of-1d-array) |
@@ -22,12 +23,14 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/syamjith45/LeetCodes/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/syamjith45/LeetCodes/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/syamjith45/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/syamjith45/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/syamjith45/LeetCodes/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/syamjith45/LeetCodes/tree/master/1051-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/syamjith45/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syamjith45/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/syamjith45/LeetCodes/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
