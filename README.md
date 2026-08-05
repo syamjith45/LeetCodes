@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/syamjith45/LeetCodes/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/syamjith45/LeetCodes/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/syamjith45/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/syamjith45/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/syamjith45/LeetCodes/tree/master/0414-third-maximum-number) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/syamjith45/LeetCodes/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/syamjith45/LeetCodes/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/syamjith45/LeetCodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/syamjith45/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/syamjith45/LeetCodes/tree/master/2485-find-the-pivot-integer) |
