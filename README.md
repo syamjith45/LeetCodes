@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/syamjith45/LeetCodes/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/syamjith45/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/syamjith45/LeetCodes/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/syamjith45/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/syamjith45/LeetCodes/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/syamjith45/LeetCodes/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/syamjith45/LeetCodes/tree/master/0724-find-pivot-index) |
@@ -23,12 +24,14 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/syamjith45/LeetCodes/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/syamjith45/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/syamjith45/LeetCodes/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/syamjith45/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/syamjith45/LeetCodes/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/syamjith45/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/syamjith45/LeetCodes/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/syamjith45/LeetCodes/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/syamjith45/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
@@ -76,6 +79,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/syamjith45/LeetCodes/tree/master/0011-container-with-most-water) |
+| [0349-intersection-of-two-arrays](https://github.com/syamjith45/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -88,4 +92,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syamjith45/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/syamjith45/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
